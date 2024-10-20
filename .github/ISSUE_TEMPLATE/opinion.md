@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: Opinion
 about: Your opinion
 title: ''
 labels: ''
