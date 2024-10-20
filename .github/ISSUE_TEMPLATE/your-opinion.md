@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Your opinion
+name: Your opinion
+about: Give your opinion
 title: ''
 labels: ''
 assignees: ''
