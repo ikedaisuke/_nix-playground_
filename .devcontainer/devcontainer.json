@@ -7,3 +7,4 @@
 		"extraNixConfig": "experimental-features = nix-command flakes"
 		}
 	}
+}
